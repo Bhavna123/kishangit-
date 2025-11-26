@@ -20,8 +20,8 @@
     "/analyzer/frames": {
       "parameters": [],
       "post": {
-        "summary": "Perform Full-Frame Analysis",
-        "operationId": "analyzeFullFramesWithOptions",
+        "summary": "perform Full-Frame Analysis",
+        "operationId": "analyzeFullFramesWithOptions.123",
         "requestBody": {
           "description": "Attach a series of images and the analysis options to be run.",
           "required": true,
