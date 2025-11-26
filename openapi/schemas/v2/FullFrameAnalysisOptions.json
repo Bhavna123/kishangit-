@@ -71,18 +71,11 @@
           },
           "properties": {
             "referenceUrls": {
-              "type": "array",
+              "type": "string",
               "x-stoplight": {
                 "id": "gd9e00hseces4"
               },
-              "description": "Images that represent \"expected state\" to be compared against the current images supplied for this analysis.",
-              "items": {
-                "x-stoplight": {
-                  "id": "a9m3myoae52d9"
-                },
-                "type": "string",
-                "format": "uri"
-              }
+              "description": "Images that represent \"expected state\" to be compared against the current images supplied for this analysis."
             }
           }
         },
